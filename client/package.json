@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "19-progressive-web-applications",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
