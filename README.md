@@ -1,7 +1,7 @@
 # 19-Progressive-Web-Applications
 
 ## Description
-This GitHub Repository contains code dealing with a PWA. It creates a text-editor that is usable in the browser.
+This GitHub Repository contains code dealing with a PWA. It creates a text-editor that is usable in the browser. Much help was provided from our instructor for this assignment.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
