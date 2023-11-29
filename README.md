@@ -15,6 +15,7 @@ The repository can be found at: https://github.com/jlipovetz/19-Progressive-Web-
 ## Usage
 Once the page is loaded all that is needed is to click the "install" button and then the text editor appears.
 
+![A screenshot of the completed webpage.](./Assets/PWA-19-SS.png)
 ## Credits
 
 ## License
