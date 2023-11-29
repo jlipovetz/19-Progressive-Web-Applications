@@ -13,7 +13,7 @@ This GitHub Repository contains code dealing with a PWA. It creates a text-edito
 The repository can be found at: https://github.com/jlipovetz/19-Progressive-Web-Applications.
 
 ## Usage
-Once the page is loaded all that is needed is to click the "install" button and then the text editor appears
+Once the page is loaded all that is needed is to click the "install" button and then the text editor appears.
 
 ## Credits
 
